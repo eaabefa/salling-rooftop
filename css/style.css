@@ -38,6 +38,8 @@
 body{
     background-image: url(../images/case1-desktop.png);
     background-repeat: no-repeat;
+	    z-index: 2;
+
 }
 video{
     position: fixed;
